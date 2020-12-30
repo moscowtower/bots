@@ -6,7 +6,7 @@ from random import choice
 # Инициализация
 token = '1169969850:AAGUAhfgRvpd5jKvNNnkxZ2m5sjCDzUUImM'
 my_chat_id = '579142036'
-dope_chat_id = '658036270'
+dope_chat_id = 'nowayiwouldpostthistogit'
 
 bot = telebot.TeleBot(token)
 
