@@ -4,9 +4,9 @@ from telebot import types
 from random import choice
 
 # Инициализация
-token = '1228572854:AAFUthtDS3OFNwlR82Si-FqXGergPxrD-gQ'
-my_chat_id = '579142036'
-daha_chat_id = 'noway'
+token = 'hidden'
+my_chat_id = 'hidden'
+daha_chat_id = 'hidden'
 
 bot = telebot.TeleBot(token)
 
